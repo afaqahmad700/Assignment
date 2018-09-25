@@ -1,0 +1,2 @@
+# Assignment
+This was an assignment by the university which has to be accomplished using oop in c++ and done successfully. in this assignment I have created you may say a type of a hardware/software shop you have punch in what you needed a number of items you need and the manufacturer company who produce it. and at the end you will be able to see the menu in which all these details are mention as well as their sales detail.
